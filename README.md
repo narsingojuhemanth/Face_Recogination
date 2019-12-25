@@ -1,0 +1,2 @@
+# Face_Recogination
+PYTHON PROJECT USED TO DETECT FACES
